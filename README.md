@@ -14,7 +14,17 @@
 
 ## Organização dos Diretórios
 
-*Cada diretório contém um README.md com instruções de uso, dependências e explicações específicas. Ainda seguem o padrão de se estiver em itálico, deve ser apagado. O snippet de código abaixo deve permanecer no texto final com as alterações no NOME_DO_REPOSITÓRIO_RAIZ e em OPCIONAL*
+*Cada diretório contém um README.md com instruções de uso, dependências e explicações específicas. Ainda seguem o padrão de se estiver em itálico, deve ser apagado. O snippet de código abaixo deve permanecer no texto final com as alterações no NOME_DO_REPOSITÓRIO_RAIZ e em OPCIONAL.*
+
+*Idealmente, a divisão da equipe para ficar responsável pelo seu diretório vai de cada cargo do membro. Fica assim a divisão:* 
+- *`/code`: membro de **Embarcados** (programação);* 
+- *`/docs`: **todos**, cada um com sua área técnica específica*
+- *`/electronics`: membro de **Embarcados** (eletrônica);* 
+- *`/mechanics`: membro de **Mecânica**;*
+- *`/misc`: **qualquer um** que precisar;*
+- *`/simu`: membro de **Embarcados** (programação), se for necessário;*
+
+> *OBS: os Gestores de Equipe precisam apenas acompanhar o time para saber se o GitHub está sendo preenchido no decorrer das Sprints, não sendo necessário preencher nada aqui*
 
 ```
 *NOME_DO_REPOSITÓRIO_RAIZ*/
