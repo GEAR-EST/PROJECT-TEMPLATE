@@ -1,4 +1,6 @@
-# Diretório de Simulação (OPCIONAL)
+> *OBS: Este arquivo (README.md) deve ser excluído. Então mesmo que não tenha a seguir textos em itálico, este arquivo por completo deve ser excluído*
+
+# Diretório de Simulação
 
 A simulação é preferencialmente feita utilizando o software [Webots](https://cyberbotics.com/), mas é livre de sua escolha.
 
