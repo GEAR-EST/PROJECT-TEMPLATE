@@ -1,12 +1,14 @@
-# *Project Template*
+# *Project Template V2*
 
 *Este repositório serve como guia para organização dos projetos desenvolvidos no GEAR. Tudo o que estiver em itálico são informações para como preencher o template e deverá ser excluído na entrega final do projeto. Alguns arquivos README podem ter a observação de que eles devem ser apagados, quando isso ocorrer, mesmo que um texto não esteja em itálico, o arquivo como um todo (README.md) deve ser apagado*
+
+> *OBS: deve ser eleita uma pessoa para ser a responsável pelo GitHub de sua modalidade (preferencialmente quem já tem mais experiência com a plataforma), essa pessoa deve auxiliar os membros a como preecnher as informações, o processo de configuração de ambiente local, ler e saber as regras deste Template e modificar/apagar os aquivos que tem a observação em itálico.*
 
 ## *Estrutura do Template*
 
 *Este template fornece uma estrutura organizada para desenvolvimento de robôs no GEAR, com diretorios específicos para cada aspecto do projeto. Lembrete: tudo o que estiver em itálico é para ajudar você, membro do GEAR a preecher corretamente o Template e deverá ser excluído futuramente.*
 
-# *Insira aqui o nome do repositório raiz. Ex: ARTBOT-2026*
+# *Insira aqui o nome do repositório. Ex: ARTBOT-2026*
 
 ## Resumo Geral
 
@@ -14,7 +16,7 @@
 
 ## Organização dos Diretórios
 
-*Cada diretório contém um README.md com instruções de uso, dependências e explicações específicas. Ainda seguem o padrão de se estiver em itálico, deve ser apagado. O snippet de código abaixo deve permanecer no texto final com as alterações no NOME_DO_REPOSITÓRIO_RAIZ e em OPCIONAL.*
+*Cada diretório contém um README.md com instruções de uso, dependências e explicações específicas. Ainda seguem o padrão de se estiver em itálico, deve ser apagado. O snippet de código abaixo deve permanecer no texto final com as alterações no NOME_DO_REPOSITÓRIO e em OPCIONAL.*
 
 *Idealmente, a divisão da equipe para ficar responsável pelo seu diretório vai de cada cargo do membro. Fica assim a divisão:* 
 - *`/code`: membro de **Embarcados** (programação);* 
@@ -27,7 +29,7 @@
 > *OBS: os Gestores de Equipe precisam apenas acompanhar o time para saber se o GitHub está sendo preenchido no decorrer das Sprints, não sendo necessário preencher nada aqui*
 
 ```
-*NOME_DO_REPOSITÓRIO_RAIZ*/
+*NOME_DO_REPOSITÓRIO*/
 ├── code/                       # Toda a implementação de algoritmos
 │
 ├── docs/                       # Documentação técnica do projeto
