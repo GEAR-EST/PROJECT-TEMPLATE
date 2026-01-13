@@ -43,3 +43,7 @@ Na tabela a seguir será possível observar a lista com todos os componentes uti
 ## 4. Lógica do robô
 
 *Inserir explicações e evolução da lógica do robô e da [Programação](../code). Se achar necessário, pode adicionar diagramas para explicar a lógica de funcionamento, como um fluxograma ou máquina de estados*
+
+## 5. Resultados
+
+*Inserir imagens e vídeos (link do youtube) do robô funcionando, em competição e foto da equipe completa*
