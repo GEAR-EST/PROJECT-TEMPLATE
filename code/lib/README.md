@@ -1,4 +1,4 @@
-> *OBS: Este arquivo (code/README.md) deve ser excluído, ele serve apenas como guia para entender como é organizado o este diretório (/code). Então mesmo que não tenha a seguir coisas em itálico, este arquivo por completo deve ser excluído futuramente*
+> *OBS: Este arquivo (README.md) deve ser excluído. Então mesmo que não tenha a seguir textos em itálico, este arquivo por completo deve ser excluído*
 
 ---
 
