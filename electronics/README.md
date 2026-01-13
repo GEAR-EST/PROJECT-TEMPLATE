@@ -6,6 +6,8 @@
 
 # Diretório de Eletrônica
 
+Para o desenvolvimento da Eletrônica não há um software específico que pode ser usado, fica à escolha de quem for desenvolver. Os mais comuns de serem usados são: Cirkit, Fritzing, Proteus, Altium, KiCad e EasyEDA.
+
 Este diretório deve conter todos os arquivos relacionados ao projeto eletrônico do robô, neste diretório deve ter:
 
 - Diagrama de conexão. Ex:
