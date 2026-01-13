@@ -1,5 +1,10 @@
-Este diretório destina-se a bibliotecas específicas (privadas) do projeto.
-O **PlatformIO** as compilará em bibliotecas estáticas e as vinculará ao arquivo executável.
+> *OBS: Este arquivo (code/README.md) deve ser excluído, ele serve apenas como guia para entender como é organizado o este diretório (/code). Então mesmo que não tenha a seguir coisas em itálico, este arquivo por completo deve ser excluído futuramente*
+
+---
+
+Este diretório destina-se a **bibliotecas específicas (privadas)** do projeto. O PlatformIO as compilará em bibliotecas estáticas e as vinculará ao arquivo executável.
+
+> Para usar bibliotecas externas, leia o arquivo README de [/code](..).
 
 O código-fonte de cada biblioteca deve ser colocado em um diretório separado
 (`lib/nome_da_sua_biblioteca/[Código]`).
@@ -23,9 +28,9 @@ Por exemplo, veja a estrutura das seguintes bibliotecas de exemplo `Foo` e `Bar`
 |  |
 |  |- README --> ESTE ARQUIVO
 |
-|- platformio.ini
 |--src
    |- main.c
+|- platformio.ini
 ```
 
 Exemplo de conteúdo de `src/main.c` usando Foo e Bar:

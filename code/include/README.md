@@ -1,3 +1,7 @@
+> *OBS: Este arquivo (code/README.md) deve ser excluído, ele serve apenas como guia para entender como é organizado o este diretório (/code). Então mesmo que não tenha a seguir coisas em itálico, este arquivo por completo deve ser excluído futuramente*
+
+---
+
 Este diretório é destinado aos arquivos de cabeçalho do projeto (*header files*).
 
 Um arquivo de cabeçalho é um arquivo que contém declarações C e definições de macro a serem compartilhadas entre vários arquivos de código-fonte do projeto. Você solicita o uso de um arquivo de cabeçalho em seu arquivo de código-fonte do projeto (C, C++, etc) localizado na pasta `src`, incluindo-o com a diretiva de pré-processamento C `#include`.
