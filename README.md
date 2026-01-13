@@ -1,6 +1,6 @@
 # *Project Template*
 
-*Este repositório serve como guia para organização dos projetos desenvolvidos no GEAR. Tudo o que estiver em itálico são informações para como preencher o template e deverá ser excluído na entrega final do projeto*
+*Este repositório serve como guia para organização dos projetos desenvolvidos no GEAR. Tudo o que estiver em itálico são informações para como preencher o template e deverá ser excluído na entrega final do projeto. Alguns arquivos README podem ter a observação de que eles devem ser apagados, quando isso ocorrer, mesmo que um texto não esteja em itálico, o arquivo como um todo (README.md) deve ser apagado*
 
 ## *Estrutura do Template*
 
